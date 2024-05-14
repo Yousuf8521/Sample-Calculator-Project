@@ -1,5 +1,12 @@
+#! /usr/bin/env node
+
 import inquirer from "inquirer";
-import Choice from "inquirer/lib/objects/choice.js";
+
+// Printing a Wellcome Message
+
+console.log("\n\tWellcome to \'Yousuf8521\' - CLI Simple Calculator\n");
+
+//import Choice from "inquirer/lib/objects/choice.js";
 
 
 // Asking Question from Users through Inquirer
